@@ -4,6 +4,7 @@ Egy perceptronnak H és I betűk megtanítása és felismerése 3x3-as pixelű k
 A háló megtanulja a betűket és felismeri öket, hiányos pixelű betűt is felismer.
 
 Helyes bemenetek:
+  
   1 0 1
   1 1 1 
   1 0 1
@@ -15,6 +16,7 @@ Helyes bemenetek:
   - I betűt ismer fel
 
 Hibás bemenet:
+  
   0 0 1
   1 1 1 
   1 0 1
